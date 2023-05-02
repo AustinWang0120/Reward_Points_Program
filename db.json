@@ -1,0 +1,214 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "customerID": 1001,
+      "customerName": "John Smith",
+      "transactionDate": "2023-01-02",
+      "transactionAmount": 120
+    },
+    {
+      "id": 2,
+      "customerID": 1002,
+      "customerName": "Jane Doe",
+      "transactionDate": "2023-01-05",
+      "transactionAmount": 75
+    },
+    {
+      "id": 3,
+      "customerID": 1003,
+      "customerName": "Bob Johnson",
+      "transactionDate": "2023-01-08",
+      "transactionAmount": 50
+    },
+    {
+      "id": 4,
+      "customerID": 1004,
+      "customerName": "Alice Lee",
+      "transactionDate": "2023-01-10",
+      "transactionAmount": 200
+    },
+    {
+      "id": 5,
+      "customerID": 1005,
+      "customerName": "Mark Wilson",
+      "transactionDate": "2023-01-15",
+      "transactionAmount": 100
+    },
+    {
+      "id": 6,
+      "customerID": 1001,
+      "customerName": "John Smith",
+      "transactionDate": "2023-01-20",
+      "transactionAmount": 65
+    },
+    {
+      "id": 7,
+      "customerID": 1003,
+      "customerName": "Bob Johnson",
+      "transactionDate": "2023-01-25",
+      "transactionAmount": 150
+    },
+    {
+      "id": 8,
+      "customerID": 1002,
+      "customerName": "Jane Doe",
+      "transactionDate": "2023-02-01",
+      "transactionAmount": 90
+    },
+    {
+      "id": 9,
+      "customerID": 1001,
+      "customerName": "John Smith",
+      "transactionDate": "2023-02-05",
+      "transactionAmount": 25
+    },
+    {
+      "id": 10,
+      "customerID": 1004,
+      "customerName": "Alice Lee",
+      "transactionDate": "2023-02-10",
+      "transactionAmount": 80
+    },
+    {
+      "id": 11,
+      "customerID": 1005,
+      "customerName": "Mark Wilson",
+      "transactionDate": "2023-02-15",
+      "transactionAmount": 120
+    },
+    {
+      "id": 12,
+      "customerID": 1002,
+      "customerName": "Jane Doe",
+      "transactionDate": "2023-02-20",
+      "transactionAmount": 40
+    },
+    {
+      "id": 13,
+      "customerID": 1001,
+      "customerName": "John Smith",
+      "transactionDate": "2023-02-25",
+      "transactionAmount": 75
+    },
+    {
+      "id": 14,
+      "customerID": 1005,
+      "customerName": "Mark Wilson",
+      "transactionDate": "2023-03-02",
+      "transactionAmount": 150
+    },
+    {
+      "id": 15,
+      "customerID": 1001,
+      "customerName": "John Smith",
+      "transactionDate": "2023-03-05",
+      "transactionAmount": 55
+    },
+    {
+      "id": 16,
+      "customerID": 1002,
+      "customerName": "Jane Doe",
+      "transactionDate": "2023-03-08",
+      "transactionAmount": 105
+    },
+    {
+      "id": 17,
+      "customerID": 1003,
+      "customerName": "Bob Johnson",
+      "transactionDate": "2023-03-12",
+      "transactionAmount": 35
+    },
+    {
+      "id": 18,
+      "customerID": 1004,
+      "customerName": "Alice Lee",
+      "transactionDate": "2023-03-15",
+      "transactionAmount": 95
+    },
+    {
+      "id": 19,
+      "customerID": 1005,
+      "customerName": "Mark Wilson",
+      "transactionDate": "2023-03-18",
+      "transactionAmount": 200
+    },
+    {
+      "id": 20,
+      "customerID": 1001,
+      "customerName": "John Smith",
+      "transactionDate": "2023-03-22",
+      "transactionAmount": 75
+    },
+    {
+      "id": 21,
+      "customerID": 1003,
+      "customerName": "Bob Johnson",
+      "transactionDate": "2023-03-25",
+      "transactionAmount": 45
+    },
+    {
+      "id": 22,
+      "customerID": 1002,
+      "customerName": "Jane Doe",
+      "transactionDate": "2023-04-01",
+      "transactionAmount": 60
+    },
+    {
+      "id": 23,
+      "customerID": 1001,
+      "customerName": "John Smith",
+      "transactionDate": "2023-04-05",
+      "transactionAmount": 85
+    },
+    {
+      "id": 24,
+      "customerID": 1004,
+      "customerName": "Alice Lee",
+      "transactionDate": "2023-04-10",
+      "transactionAmount": 110
+    },
+    {
+      "id": 25,
+      "customerID": 1005,
+      "customerName": "Mark Wilson",
+      "transactionDate": "2023-04-15",
+      "transactionAmount": 75
+    },
+    {
+      "id": 26,
+      "customerID": 1002,
+      "customerName": "Jane Doe",
+      "transactionDate": "2023-04-20",
+      "transactionAmount": 40
+    },
+    {
+      "id": 27,
+      "customerID": 1001,
+      "customerName": "John Smith",
+      "transactionDate": "2023-04-25",
+      "transactionAmount": 95
+    },
+    {
+      "id": 28,
+      "customerID": 1005,
+      "customerName": "Mark Wilson",
+      "transactionDate": "2023-05-02",
+      "transactionAmount": 150
+    },
+    {
+      "id": 29,
+      "customerID": 1001,
+      "customerName": "John Smith",
+      "transactionDate": "2023-05-05",
+      "transactionAmount": 50
+    },
+    {
+      "id": 30,
+      "customerID": 1004,
+      "customerName": "Alice Lee",
+      "transactionDate": "2023-05-10",
+      "transactionAmount": 70
+    }
+  ]
+}
