@@ -2,6 +2,8 @@
 
 This program helps to calculate the reward points earned by each customer monthly and totally.
 
+![Screenshot](reward_points_screenshot.png)
+
 ## Prerequisites
 
 Before running this application, make sure you have installed Node.js and npm.
